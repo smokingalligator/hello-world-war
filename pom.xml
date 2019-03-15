@@ -30,7 +30,7 @@
         <configuration>
             <url>http://localhost:8072/manager/text</url>
             <server>tomcat</server>
-            <path>/hello-world-war-1.0.0</path>
+            <path>/hello-world-1.0.0</path>
         </configuration>
       </plugin>
     </plugins>
