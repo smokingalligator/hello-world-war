@@ -3,7 +3,7 @@
 <title>Hello Principal Financial Group!</title>
 </head>
 <body>
-	<h1>Hello Principal!</h1>
+	<h1>Hello Principal from Bamboo!</h1>
 	<p>
 		It is now
 		<%= new java.util.Date() %></p>
